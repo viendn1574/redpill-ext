@@ -1,0 +1,34 @@
+{
+  "id": "thethorgroup.jg.boot-wait",
+  "url": "https://raw.githubusercontent.com/dogodefi/redpill-ext/master/redpill-boot-wait/rpext-index.json",
+  "info": {
+    "name": "RedPill Bootwait",
+    "description": "Simple extension which stops the execution early waiting for the boot device to appear",
+    "packer_url": "https://github.com/RedPill-TTG/redpill-boot-wait",
+    "help_url": "https://github.com/RedPill-TTG/redpill-boot-wait"
+  },
+  "releases": {
+    "ds3615xs_25556": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "ds3615xs_25556u2": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "ds3615xs_41222": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "ds3615xs_42218": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "ds3617xs_25556": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "ds3617xs_25556u2": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "ds3617xs_42218": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "ds3617xs_42218u2": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "ds3617xs_42550": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "ds918p_25556": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "ds918p_25556u2": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "ds918p_41890": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "ds918p_42218": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "dva3221_42218": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "dva3221_42621": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "ds3622xsp_42218": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "ds3622xsp_42550": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "ds3622xsp_42621": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "ds3622xsp_42661": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "rs4021xsp_42218": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json",
+    "fs6400_42218": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/redpill-boot-wait/recipes/universal.json"
+
+  }
+}

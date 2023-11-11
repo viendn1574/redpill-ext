@@ -1,0 +1,15 @@
+{
+  "id": "dogo.ixgbe",
+  "url": "https://raw.githubusercontent.com/dogodefi/redpill-ext/master/ixgbe/rpext-index.json",
+  "info": {
+    "name": "ixgbe",
+    "description": "Adds Intel(R) 10GbE PCI Express Linux Network Driver Support",
+    "author_url": "https://github.com/dogodefi",
+    "packer_url": "https://github.com/dogodefi/rp-ext/tree/main/ixgbe",
+    "help_url": "<todo>"
+  },
+  "releases": {
+    "ds3622xsp_42218": "https://raw.githubusercontent.com/dogodefi/redpill-ext/master/ixgbe/releases/ds3622xsp_42218.json",
+    "ds3622xsp_42550": "https://raw.githubusercontent.com/dogodefi/redpill-ext/master/ixgbe/releases/ds3622xsp_42218.json"
+  }
+}
